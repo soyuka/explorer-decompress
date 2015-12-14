@@ -1,0 +1,17 @@
+{
+  "name": "explorer-decompress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "gulp": "^3.9.0",
+    "gulp-decompress": "^1.2.0"
+  }
+}
